@@ -1,0 +1,179 @@
+itemGroup.gardenCore=Garden Stuff
+itemGroup.gardenTrees=Garden Stuff (Деревья)
+
+# Garden Core
+
+container.gardencore.garden=Посадите растения
+container.gardencore.compostBin=Ящик для компоста
+
+item.gardencore.gardenTrowel.name=Садовый совок
+item.gardencore.soilTestKit.name=Комплект для тестирования почвы
+item.gardencore.soilTestKitUsed.name=Использованный комплект для тестирования почвы
+item.gardencore.compostPile.name=Компост
+item.gardencore.wax.name=Воск
+
+tile.gardencore.smallFire.name=Небольшой огонь
+tile.gardencore.gardenSoil.name=Садовая почва
+tile.gardencore.potteryTable.name=Гончарная мастерская
+tile.gardencore.compostBin.name=Ящик для компоста
+tile.gardencore.gardenFarmland.name=Пропашенная садовая почва
+tile.gardencore.gardenProxy.name=Садовый заменитель
+
+gardencore.soilkit.rainfall=Влажность
+gardencore.soilkit.temperature=Температура
+
+# Garden Containers
+
+container.gardencontainers.potteryTable=Керамика
+
+item.gardencontainers.potteryPattern.name=Штамп глиняного шаблона
+item.gardencontainers.potteryPatternDirty.name=Штамп глиняного шаблона
+item.gardencontainers.potteryPatternDirty.description=Этот штамп испачкан.\nПоймойте его в котле.
+
+tile.gardencontainers.largePot.default.name=Большой цветочный горшок
+tile.gardencontainers.largePot.raw.name=Необожжённый большой цветочный горшок
+tile.gardencontainers.largePotColored.black.name=Черный большой цветочный горшок
+tile.gardencontainers.largePotColored.red.name=Красный большой цветочный горшок
+tile.gardencontainers.largePotColored.green.name=Зеленый большой цветочный горшок
+tile.gardencontainers.largePotColored.brown.name=Коричневый большой цветочный горшок
+tile.gardencontainers.largePotColored.blue.name=Синий большой цветочный горшок
+tile.gardencontainers.largePotColored.purple.name=Фиолетовый большой цветочный горшок
+tile.gardencontainers.largePotColored.cyan.name=Бирюзовый большой цветочный горшок
+tile.gardencontainers.largePotColored.silver.name=Светло-серый большой цветочный горшок
+tile.gardencontainers.largePotColored.gray.name=Серый большой цветочный горшок
+tile.gardencontainers.largePotColored.pink.name=Розовый большой цветочный горшок
+tile.gardencontainers.largePotColored.lime.name=Лаймовый большой цветочный горшок
+tile.gardencontainers.largePotColored.yellow.name=Желтый большой цветочный горшок
+tile.gardencontainers.largePotColored.light_blue.name=Голубой большой цветочный горшок
+tile.gardencontainers.largePotColored.magenta.name=Пурпурный большой цветочный горшок
+tile.gardencontainers.largePotColored.orange.name=Оранжевый большой цветочный горшок
+tile.gardencontainers.largePotColored.white.name=Белый большой цветочный горшок
+tile.gardencontainers.mediumPot.default.name=Цветочный горшок
+tile.gardencontainers.mediumPotColored.black.name=Черный цветочный горшок
+tile.gardencontainers.mediumPotColored.red.name=Красный цветочный горшок
+tile.gardencontainers.mediumPotColored.green.name=Зеленый цветочный горшок
+tile.gardencontainers.mediumPotColored.brown.name=Коричневый цветочный горшок
+tile.gardencontainers.mediumPotColored.blue.name=Синий цветочный горшок
+tile.gardencontainers.mediumPotColored.purple.name=Фиолетовый цветочный горшок
+tile.gardencontainers.mediumPotColored.cyan.name=Бирюзовый цветочный горшок
+tile.gardencontainers.mediumPotColored.silver.name=Светло-серый цветочный горшок
+tile.gardencontainers.mediumPotColored.gray.name=Серый цветочный горшок
+tile.gardencontainers.mediumPotColored.pink.name=Розовый цветочный горшок
+tile.gardencontainers.mediumPotColored.lime.name=Лаймовый цветочный горшок
+tile.gardencontainers.mediumPotColored.yellow.name=Желтый цветочный горшок
+tile.gardencontainers.mediumPotColored.light_blue.name=Голубой цветочный горшок
+tile.gardencontainers.mediumPotColored.magenta.name=Пурпурный цветочный горшок
+tile.gardencontainers.mediumPotColored.orange.name=Оранжевый цветочный горшок
+tile.gardencontainers.mediumPotColored.white.name=Белый цветочный горшок
+tile.gardencontainers.woodWindowBox.oak.name=Дубовый наружный ящик для растений
+tile.gardencontainers.woodWindowBox.spruce.name=Еловый наружный ящик для растений
+tile.gardencontainers.woodWindowBox.birch.name=Березовый наружный ящик для растений
+tile.gardencontainers.woodWindowBox.jungle.name=Тропический наружный ящик для растений
+tile.gardencontainers.woodWindowBox.acacia.name=Акациевый наружный ящик для растений
+tile.gardencontainers.woodWindowBox.big_oak.name=Наружный ящик для растений из темного дуба
+tile.gardencontainers.stoneWindowBox.stone_slab.name=Каменный наружный ящик для растений
+tile.gardencontainers.stoneWindowBox.stone_brick.name=Кирпичный наружный ящик для растений
+tile.gardencontainers.stoneWindowBox.mossy_stone_brick.name=Замшелый наружный ящик для растений
+tile.gardencontainers.stoneWindowBox.brick_block.name=Кирпичный наружный ящик для растений
+tile.gardencontainers.stoneWindowBox.nether_brick.name=Адский наружный ящик для растений
+tile.gardencontainers.stoneWindowBox.sandstone.name=Песчаниковый наружный ящик для растений
+tile.gardencontainers.decorativePot.default.name=Декоративный цветочный горшок
+tile.gardencontainers.decorativePot.chiseled.name=Декоративный цветочный горшок (Обработанный)
+tile.gardencontainers.decorativePot.lines.name=Декоративный цветочный горшок (Колонна)
+tile.gardencontainers.potteryTable.name=Гончарный стол
+
+# Garden Stuff
+
+container.gardenstuff.bloomeryFurnace=Домница
+
+item.gardenstuff.chainLink.name=Звено цепи
+item.gardenstuff.chainLink.iron.name=Железное звено цепи
+item.gardenstuff.chainLink.gold.name=Золотое звено цепи
+item.gardenstuff.chainLink.wrought_iron=Кованное железное звено цепи
+item.gardenstuff.ironNugget.name=Железный самородок
+item.gardenstuff.wroughtIronIngot.name=Кованный железный слиток
+item.gardenstuff.wroughtIronNugget.name=Кованный железный самородок
+item.gardenstuff.mossPaste.name=Паста из мха
+item.gardenstuff.candle.name=Свеча
+
+nei.recipe.gardenstuff.bloomeryFurnace=Процесс плавления
+
+tile.gardenstuff.heavyChain.name=Тяжелая цепь
+tile.gardenstuff.heavyChain.iron.name=Тяжелая железная цепь
+tile.gardenstuff.heavyChain.gold.name=Тяжелая золотая цепь
+tile.gardenstuff.heavyChain.rust.name=Тяжелая ржавая цепь
+tile.gardenstuff.heavyChain.wrought_iron.name=Тяжелая закаленная цепь
+tile.gardenstuff.heavyChain.moss.name=Тяжелая мшистая цепь
+tile.gardenstuff.lightChain.name=Легкая цепь
+tile.gardenstuff.lightChain.iron.name=Легкая железная цепь
+tile.gardenstuff.lightChain.gold.name=Легкая золотая цепь
+tile.gardenstuff.lightChain.rust.name=Легкая ржавая цепь
+tile.gardenstuff.lightChain.wrought_iron.name=Легкая закаленная цепь
+tile.gardenstuff.lightChain.moss.name=Легкая мшистая цепь
+tile.gardenstuff.latticeMetal.name=Решетка
+tile.gardenstuff.latticeMetal.iron.name=Железная решетка
+tile.gardenstuff.latticeMetal.rust.name=Ржавая решетка
+tile.gardenstuff.latticeMetal.wrought_iron.name=Кованная решетка
+tile.gardenstuff.latticeMetal.moss.name=Мшистая решетка
+tile.gardenstuff.latticeWood.name=Решетка
+tile.gardenstuff.latticeWood.oak.name=Дубовая решетка
+tile.gardenstuff.latticeWood.spruce.name=Еловая решетка
+tile.gardenstuff.latticeWood.birch.name=Березовая решетка
+tile.gardenstuff.latticeWood.jungle.name=Тропическая решетка
+tile.gardenstuff.latticeWood.acacia.name=Акациевая решетка
+tile.gardenstuff.latticeWood.big_oak.name=Решетка из темного дуба
+tile.gardenstuff.lantern.name=Садовый фонарь
+tile.gardenstuff.metalBlock.name=Блок из кованого железа
+tile.gardenstuff.stoneBlock.name=Блок древесного угля
+tile.gardenstuff.fence.name=Кованый железный забор
+tile.gardenstuff.fence.0.name=Кованый железный забор
+tile.gardenstuff.fence.1.name=Кованый железный забор
+tile.gardenstuff.fence.2.name=Кованый железный забор
+tile.gardenstuff.fence.3.name=Кованый железный забор
+tile.gardenstuff.bloomeryFurnace.name=Домница
+tile.gardenstuff.mossBrick.name=Мшистый каменный кирпич
+tile.gardenstuff.mossBrick.mossy_2.name=Мшистый каменный кирпич
+tile.gardenstuff.mossBrick.mossy_3.name=Мшистый каменный кирпич
+tile.gardenstuff.mossBrick.mossy_4.name=Мшистый каменный кирпич
+tile.gardenstuff.mossBrick.cracked_mossy_1.name=Мшистый потрескавшийся камень кирпич
+tile.gardenstuff.mossBrick.cracked_mossy_2.name=Мшистый потрескавшийся камень кирпич
+tile.gardenstuff.mossBrick.cracked_mossy_3.name=Мшистый потрескавшийся камень кирпич
+tile.gardenstuff.mossBrick.cracked_mossy_4.name=Мшистый потрескавшийся камень кирпич
+tile.gardenstuff.candelabra.name=Подсвечник
+tile.gardenstuff.hoop.name=Кованый железный обруч
+
+gardenstuff.lanternSource=Содержание
+gardenstuff.lanternSource.none=Пусто
+gardenstuff.lanternSource.torch=Факел
+gardenstuff.lanternSource.redstoneTorch=Красный факел
+gardenstuff.lanternSource.glowstone=Светящийся камень
+gardenstuff.lanternSource.candle=Свеча
+gardenstuff.lanternSource.firefly=Светлячки
+gardenstuff.lanternSource.thaumcraftCandle=Сальная свеча
+
+# Garden Trees
+
+item.gardentrees.candelillaSeeds.name=Канделильские семена
+item.gardentrees.candelilla.name=Канделилла
+
+tile.gardentrees.ivy.name=Плющ дьявола
+tile.gardentrees.strangePlant.name=Странное растение
+tile.gardentrees.strangePlant.description=Что содержится в его странных стручках?
+tile.gardentrees.sapling.pine.name=Саженец сосны
+tile.gardentrees.sapling.swamp.name=Болотный саженец
+tile.gardentrees.sapling.tallbirch.name=Саженец высокой березы
+tile.gardentrees.thinLog.name=Столб
+tile.gardentrees.thinLog.oak.name=Дубовый столб
+tile.gardentrees.thinLog.spruce.name=Еловый столб
+tile.gardentrees.thinLog.birch.name=Березовый столб
+tile.gardentrees.thinLog.jungle.name=Тропический столб
+tile.gardentrees.thinLog.acacia.name=Акациевый столб
+tile.gardentrees.thinLog.big_oak.name=Столб из темного дуба
+tile.gardentrees.thinLogFence.name=Забор
+tile.gardentrees.thinLogFence.oak.name=Дубовый забор
+tile.gardentrees.thinLogFence.spruce.name=Еловый забор
+tile.gardentrees.thinLogFence.birch.name=Березовый забор
+tile.gardentrees.thinLogFence.jungle.name=Тропический забор
+tile.gardentrees.thinLogFence.acacia.name=Акациевый забор
+tile.gardentrees.thinLogFence.big_oak.name=Забор из темного дуба
+tile.gardentrees.candelilla.name=Канделилла
